@@ -1,6 +1,6 @@
 body
 {
-    color: #333
+    color: #333;
     text-align: left;
     font-family: "Arial";
 }
@@ -9,11 +9,11 @@ body
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solod #ddd;
+    border: 1px solid #ddd;
     margin: 0 auto;
 }
 
 #container h1
 {
-    font.size: 20px;
+    font-size: 20px;
 }
