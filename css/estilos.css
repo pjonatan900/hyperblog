@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
     color: red;
+=======
+    color: blue;
+>>>>>>> f323a8b9f6cabe0f13c6e4353d8d3f9a25e3e512
     text-align: left;
     font-family: "Arial";
 }
